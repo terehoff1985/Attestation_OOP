@@ -1,5 +1,5 @@
 
-// Реализация операции умножения
+
 public class MultiplicationOperation implements Operation {
     @Override
     public ComplexNumber calculate(ComplexNumber a, ComplexNumber b) {
